@@ -1,2 +1,2 @@
 # insect_log
-Tiny fauna observations logging program - my second project ever
+Tiny program for logging fauna observations - my second project ever
